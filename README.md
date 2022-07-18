@@ -3,6 +3,11 @@ m4ld is a minimal python library for creating organised, accurate and managebabl
 
 dont expect much out of it, it may lack some important features and it may have bugs.
 
+# installing
+run
+```pip install m4ld```
+to install the library
+
 # TODOs
 write core functions: done
 
