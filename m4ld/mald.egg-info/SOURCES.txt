@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+mald/mald.egg-info/PKG-INFO
+mald/mald.egg-info/SOURCES.txt
+mald/mald.egg-info/dependency_links.txt
+mald/mald.egg-info/top_level.txt
