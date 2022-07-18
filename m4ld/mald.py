@@ -49,9 +49,3 @@ def mald(lis, bign, bigl, ls):
                     else:
                         continue
     return rs
-
-    
-
-    
-
-    
