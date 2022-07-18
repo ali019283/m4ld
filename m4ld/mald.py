@@ -1,13 +1,3 @@
-a = ["a","b","c","d","e","f"]
-b = 3 
-c = 4 
-d = [["a", 2 ,2], 
-["b", 3 ,4 ,3], 
-["c", 1 , 3], 
-["d", 3, 1], 
-["e", 2 , 4], 
-["f", 2 ,2]]
-
 import random
 
 # lis(list) = list
@@ -32,7 +22,6 @@ def plist(lis, lse, nde):
             except IndexError:
                 lis.pop(i)
     return lis
-
 
 # bigl(int) = how many lines to print
 # ls(list) = 2d array to store information about the elements
@@ -60,8 +49,7 @@ def mald(lis, bign, bigl, ls):
                     else:
                         continue
     return rs
-mald (a,b,c,d)
-            
+
     
 
     
