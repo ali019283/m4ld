@@ -3,21 +3,14 @@ mald is a minimal python library for creating organised, accurate and managebabl
 
 dont expect much out of it, it may lack some important features and it may have bugs.
 
-# installing 
-run 
-```
-# make install
-```
-to install
-
 # TODOs
-write core functions: mostly done
+write core functions: done
 
-write a main function: -
+write a main function: done
 
-makefile: -
+examples: done
 
-examples: - 
+packaging = -
 
 
 
