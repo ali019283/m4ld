@@ -8,9 +8,9 @@ write core functions: done
 
 write a main function: done
 
-examples: done
+examples: mostly done
 
-packaging = -
+packaging: done
 
 
 
